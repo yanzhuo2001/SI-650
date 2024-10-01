@@ -1,4 +1,3 @@
-python -m uvicorn app:app
 With the files we provide in the `HW1.zip` file, you will launch a search engine (that doesn’t work as expected yet) from a server. Your goal in this homework is to make the search engine work as expected, i.e. returning a list of relevant results after entering different search queries. This document guides you to start the server.
 
 ## Code Structure
