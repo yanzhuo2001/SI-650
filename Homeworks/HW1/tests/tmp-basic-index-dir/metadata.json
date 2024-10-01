@@ -1,0 +1,1 @@
+{"statistics": {"vocab": {"apple": 2, "banana": 1, "cherry": 1}, "index_type": "BasicInvertedIndex"}, "vocabulary": ["apple", "cherry", "banana"], "document_metadata": {"1": {"length": 4, "unique_tokens": 3}}}
